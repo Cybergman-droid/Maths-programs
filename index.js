@@ -34,5 +34,5 @@ function binomialExpansion(){
     }
     console.log(factorial(5))
     console.log(nChooser(10,2))
-    console.log(binomial(3,(-1/3),5))
+    console.log(binomial(3,-(3**-1),5))
 }
